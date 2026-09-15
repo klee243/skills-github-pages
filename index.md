@@ -12,8 +12,8 @@ I can make the following lists:
 * other bullets
 * hello again
   
-[ ] tick boxes
-[x] checked tick boxes
+- [ ] tick boxes
+- [x] checked tick boxes
 1. numbers
 2. hello
 
